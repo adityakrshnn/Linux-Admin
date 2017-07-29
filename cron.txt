@@ -1,0 +1,8 @@
+
+00 15 * * * /home/ak/backupvesit.sh
+
+00,15,30,45 * * * * /home/ak/2processcheck.sh
+
+00 20 * * * /home/ak/trackslotat8pm.sh
+
+00 09 * * * /home/ak/4trackloginout.sh
